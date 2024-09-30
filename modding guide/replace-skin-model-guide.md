@@ -24,4 +24,4 @@
 
 ![](images/vid-2.gif)
 
-Then try to repeat step 4. If it still doesn't work, you will have to do the weight painting yourself, you can find some tutorials on youtube like this one: [weight painting tutorial](https://www.youtube.com/watch?v=4fICQmBEt4Y&ab_channel=RoyalSkies)
+Then try to repeat step 4. If it still doesn't work, you will have to do the weight painting yourself, you can find some tutorials on youtube like this one: [weight painting tutorial](https://www.youtube.com/watch?v=4fICQmBEt4Y&ab_channel=RoyalSkies) or try to do [weight transfer tutorial](https://youtu.be/IPQ2QVVIxLU?si=uVN2yx7sUsW5LayE)
