@@ -24,6 +24,6 @@ So, here we want to replace the "*MarioSwimwearCap*" and the "*MarioSwimwearHead
 
 ![](images/img-10.png)
 
-and then, all should be good !
+and then, all should be good !(if you want to modify the eyes position and rotation : *InitPartsFixInfoHackCap.byml*)
 
 ![](images/work.jpg)
